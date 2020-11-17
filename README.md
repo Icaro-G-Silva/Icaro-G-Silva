@@ -4,7 +4,7 @@
 <a href="https://medium.com/@icaro_silva"><img alt="Medium" height="32px" src="https://icons-for-free.com/iconfiles/png/512/medium+icon-1320186682844050412.png"/></a>
 <a href="mailto:icarogabrielsilva2019@gmail.com"><img alt="Gmail" height="32px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"/></a>
 
-<img align="right" alt="GIF" height="250px" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" />
+<img align="right" alt="GIF" height="220px" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" />
 
 ### Welcome, I'm Ícaro!
 
