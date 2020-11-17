@@ -32,7 +32,7 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-### Wanna some stats? 📋
+### Wanna see some stats? 📋
 
 ![Icaro's github stats](https://github-readme-stats.vercel.app/api?username=Icaro-G-Silva&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)
 ![Icaro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-G-Silva&layout=compact&theme=dracula)
