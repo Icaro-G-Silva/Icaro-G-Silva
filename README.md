@@ -1,8 +1,10 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://linkedin.com/in/icaro-silva"><img alt="LinkedIn" height="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
-<a href="https://medium.com/@icaro_silva"><img alt="Medium" height="32px" src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png"/></a>
-<a href="mailto:icarogabrielsilva2019@gmail.com"><img alt="Gmail" height="32px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"/></a>
+<a href="https://linkedin.com/in/icaro-silva" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/Icaro-G-Silva/Icaro-G-Silva/master/Assets/linkedin.png"/></a>
+<a href="https://medium.com/@icaro_silva" target="_blank"><img alt="Medium" src="https://raw.githubusercontent.com/Icaro-G-Silva/Icaro-G-Silva/master/Assets/medium.png"/></a>
+<a href="mailto:icarogabrielsilva2019@gmail.com" target="_blank"><img alt="Gmail" src="https://raw.githubusercontent.com/Icaro-G-Silva/Icaro-G-Silva/master/Assets/gmail.png"/></a>
+<a href="https://open.spotify.com/user/icca_br?si=2bdb573381fd4786" target="_blank"><img alt="Spotify" src="https://raw.githubusercontent.com/Icaro-G-Silva/Icaro-G-Silva/master/Assets/spotify.png"/></a>
+
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=Icaro-G-Silva&repo=Icaro-G-Silva&countColor=%237B1E7A)
 
 <img align="right" alt="GIF" height="325px" src="https://raw.githubusercontent.com/Icaro-G-Silva/Icaro-G-Silva/master/Assets/code.gif" />
